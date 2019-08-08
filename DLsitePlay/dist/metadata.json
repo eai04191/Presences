@@ -1,0 +1,16 @@
+{
+    "author": {
+        "name": "Eai",
+        "id": "132779412771962880"
+    },
+    "service": "DLsite Play",
+    "description": {
+        "ja": "同人誌、電子書籍、音声・動画、ゲーム作品がすぐに楽しめるビューワーアプリ"
+    },
+    "url": "play.dlsite.com",
+    "version": "1.0",
+    "logo": "https://play.dlsite.com/icons/android-chrome-192x192.png",
+    "thumbnail": "https://play.dlsite.com/welcome/img/pic_device_01.png",
+    "color": "#1f9aff",
+    "tags": ["photo", "music"]
+}
